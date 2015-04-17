@@ -1,2 +1,2 @@
 # elevate-docker-solr
-elevate solr dockerfile
+elevate solr docker 
